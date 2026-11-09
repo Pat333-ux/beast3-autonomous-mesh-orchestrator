@@ -1,0 +1,8 @@
+beast3-autonomous-mesh-orchestrator/
+├── orchestrator.py
+├── requirements.txt
+├── Dockerfile
+├── cloudbuild.yaml
+└── .github/
+    └── workflows/
+        └── deploy-and-sync.yml
